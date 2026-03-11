@@ -1,0 +1,6 @@
+../Core/Src/Dino.c:63:6:introMessage	16	static
+../Core/Src/Dino.c:74:6:showLine	24	static
+../Core/Src/Dino.c:93:6:moveDino	16	static
+../Core/Src/Dino.c:115:6:moveTree	16	static
+../Core/Src/Dino.c:124:6:displayScore	24	static
+../Core/Src/Dino.c:145:6:play	56	static
